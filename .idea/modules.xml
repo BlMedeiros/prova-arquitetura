@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/techfood.iml" filepath="$PROJECT_DIR$/techfood.iml" />
+      <module fileurl="file://$PROJECT_DIR$/techfood-legacy/techfood-legacy.iml" filepath="$PROJECT_DIR$/techfood-legacy/techfood-legacy.iml" />
+    </modules>
+  </component>
+</project>
